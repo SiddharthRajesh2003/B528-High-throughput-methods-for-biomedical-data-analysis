@@ -13,10 +13,11 @@
 
 **Packages**
 
-- numpy
-- networkx
-- matplotlib
-- scipy
+- numpy = 2.2.6
+- networkx = 3.5
+- matplotlib = 3.10.1
+- scipy = 1.13.1
+- pandas = 2.3.3
 
 **Tools**
 
